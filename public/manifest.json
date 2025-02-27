@@ -1,7 +1,7 @@
 {
      "name": "Better Chat GPT Plus",
      "short_name": "ChatGPT Plus",
-     "start_url": "/",
+     "start_url": "/BetterChatGPT-PLUS"
      "display": "standalone",
      "background_color": "#ffffff",
      "theme_color": "#4A90E2",
